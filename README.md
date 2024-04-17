@@ -1,15 +1,6 @@
-<div className="container col-xxl-8 px-4 py-5">
-        <div className="row flex-lg-row-reverse align-items-center g-5 py-5">
-          <div className="col-10 col-sm-8 col-lg-6 m-0">
-            <img src={"./img/bg-big.png"} className="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700" height="500" loading="lazy" />
-          </div>
-          <div className="col-lg-6">
-            <h1 className="display-3 fw-bold text-body-emphasis lh-1 mb-3">Hello! My name is Purna B. Shrestha</h1>
-            <p className="lead">Greetings! As an enthusiastic web developer and a certified AWS Cloud Practitioner, I am thrilled and eager to collaborate with you. 😊</p>
-            <div className="d-grid gap-2 d-md-flex justify-content-md-start mt-5">
-              <a href="#about" className='btn btn-primary btn-lg px-4 me-md-2'>About me</a>
-              <a href={"github.com/nuastha"} target='_target' className='btn btn-info btn-lg px-4 me-md-2'>Github</a>
-            </div>
-          </div>
-        </div>
-      </div>
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nuastha&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nuastha&theme=dark&hide_border=false)<br/>
