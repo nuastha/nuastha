@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **frontend web development**
 
-- 🤝 I’m looking for help with **redux state management**
+- 🤝 I’m looking for help with **AI and ML**
 
 - 💬 Ask me about **react js**
 
